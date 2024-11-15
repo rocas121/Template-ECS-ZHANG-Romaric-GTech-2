@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(111,64): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(111,64): warning C4244:         with
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(111,64): warning C4244:         [
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(111,64): warning C4244:             T=unsigned int
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(111,64): warning C4244:         ]
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(111,64): warning C4244:         and
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(111,64): warning C4244:         [
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(111,64): warning C4244:             T=float
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(111,64): warning C4244:         ]
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(183,70): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(183,70): warning C4244:         with
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(183,70): warning C4244:         [
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(183,70): warning C4244:             T=unsigned int
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(183,70): warning C4244:         ]
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(183,70): warning C4244:         and
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(183,70): warning C4244:         [
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(183,70): warning C4244:             T=float
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(183,70): warning C4244:         ]
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(189,69): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(189,69): warning C4244:         with
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(189,69): warning C4244:         [
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(189,69): warning C4244:             T=unsigned int
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(189,69): warning C4244:         ]
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(189,69): warning C4244:         and
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(189,69): warning C4244:         [
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(189,69): warning C4244:             T=float
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(189,69): warning C4244:         ]
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(199,86): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(199,86): warning C4244:         with
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(199,86): warning C4244:         [
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(199,86): warning C4244:             T=float
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(199,86): warning C4244:         ]
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(199,76): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(199,76): warning C4244:         with
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(199,76): warning C4244:         [
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(199,76): warning C4244:             T=float
+C:\Users\rocas\source\repos\Breaker\Breaker\main.cpp(199,76): warning C4244:         ]
+  Breaker.vcxproj -> C:\Users\rocas\source\repos\Breaker\x64\Debug\Breaker.exe
